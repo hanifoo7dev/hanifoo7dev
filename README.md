@@ -60,7 +60,7 @@
 
 ### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=2C5364&icon_color=61DAFB&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=hanifoo7dev&show_icons=true&theme=github_dark&hide_border=true&title_color=2C5364&icon_color=61DAFB&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2C5364&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 
