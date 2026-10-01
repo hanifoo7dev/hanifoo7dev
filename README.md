@@ -119,15 +119,15 @@ clean architecture, reusable components and scalable APIs.
 
 ### Connect With Me
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:hanif007.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hanifoo7dev">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/hanif007">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 
